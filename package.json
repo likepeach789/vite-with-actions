@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://likepeach789.github.io/github-actions-demo",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "dev": "vite",
